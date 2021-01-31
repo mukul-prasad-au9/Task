@@ -2,7 +2,7 @@ import { Button } from "@material-ui/core"
 
 const Container5=()=>{
     return(
-        <div className="d-flex align-items-center" style={{height:"80vh"}}>
+        <div className="d-flex align-items-center py-5" style={{height:"80vh"}}>
             <div className="container d-flex flex-row flex-wrap">
                 <div className="px-4 py-4">
                     <p className="text-danger">Quote-to-Cash Automation</p>

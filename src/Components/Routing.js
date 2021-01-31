@@ -5,6 +5,7 @@ import Container2 from "./Container2";
 import Container3 from "./Container3";
 import Container4 from "./Container4";
 import Container5 from "./Container5";
+import Container6 from "./Container6"
 import Downbar from "./Downbar";
 import Footer from "./Footer";
 const Routing =()=>{
@@ -18,6 +19,7 @@ const Routing =()=>{
             <div style={{backgroundColor:"blueviolet"}}>
                 <Container4/>
                 <Container5/>
+                <Container6/>
             </div>
             <Footer/>
             <Downbar/>
